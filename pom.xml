@@ -15,6 +15,7 @@
         <module>p4</module>
         <module>p5</module>
         <module>p6</module>
+        <module>p7</module>
     </modules>
 
     <dependencyManagement>
